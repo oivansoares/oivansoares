@@ -1,16 +1,38 @@
-## Hi there 👋
+Olá! Eu sou estudante de Análise e Desenvolvimento de Sistemas 👋
 
-<!--
-**oivansoares/oivansoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Quem sou:
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 2º período, e estou iniciando minha jornada na área de tecnologia.
 
-Here are some ideas to get you started:
+💻 Área de interesse:
+Tenho interesse em Desenvolvimento Web, especialmente Front-end, buscando criar interfaces funcionais, organizadas e visualmente agradáveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 O que estou aprendendo:
+
+HTML, CSS e JavaScript.
+
+Design Profissional.
+
+Algoritmos e Pensamento Computacional.
+
+Modelagem de Banco de Dados.
+
+🛠️ Conhecimentos que já apliquei:
+
+Criação e estruturação de páginas com HTML.
+
+Estilização de páginas utilizando CSS.
+
+Aplicação de conceitos básicos de JavaScript.
+
+Desenvolvimento de atividades práticas de lógica de programação e banco de dados.
+
+🚀 Projetos que quero destacar:
+Pretendo compartilhar meus exercícios, projetos acadêmicos e futuros projetos pessoais, mostrando minha evolução e meus conhecimentos na área de desenvolvimento.
+
+🔗 Contato profissional:
+
+LinkedIn: https://linkedin.com/in/ivan-soares-37956042a
+
+GitHub: [Seu perfil do GitHub]
+
+Sempre buscando aprender, desenvolver novas habilidades e transformar conhecimento em projetos!
