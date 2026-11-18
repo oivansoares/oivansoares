@@ -1,38 +1,25 @@
-Olá! Eu sou estudante de Análise e Desenvolvimento de Sistemas 👋
+Sobre mim 👋
 
-🎓 Quem sou:
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 2º período, e estou iniciando minha jornada na área de tecnologia.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 2º período, e tenho interesse em Desenvolvimento Web, especialmente Front-end.
 
-💻 Área de interesse:
-Tenho interesse em Desenvolvimento Web, especialmente Front-end, buscando criar interfaces funcionais, organizadas e visualmente agradáveis.
+📚 Conhecimentos que já apliquei:
 
-📚 O que estou aprendendo:
+HTML e CSS na criação e estilização de páginas web.
 
-HTML, CSS e JavaScript.
+JavaScript em exercícios práticos de programação.
+
+Algoritmos e lógica de programação em atividades acadêmicas.
+
+🚀 Conhecimentos em desenvolvimento:
 
 Design Profissional.
 
-Algoritmos e Pensamento Computacional.
-
 Modelagem de Banco de Dados.
 
-🛠️ Conhecimentos que já apliquei:
+Aperfeiçoamento em JavaScript e Front-end.
 
-Criação e estruturação de páginas com HTML.
+Pensamento Computacional.
 
-Estilização de páginas utilizando CSS.
+🎯 Objetivo: continuar desenvolvendo minhas habilidades, construir projetos práticos e conquistar uma oportunidade de estágio na área de desenvolvimento Front-end.
 
-Aplicação de conceitos básicos de JavaScript.
-
-Desenvolvimento de atividades práticas de lógica de programação e banco de dados.
-
-🚀 Projetos que quero destacar:
-Pretendo compartilhar meus exercícios, projetos acadêmicos e futuros projetos pessoais, mostrando minha evolução e meus conhecimentos na área de desenvolvimento.
-
-🔗 Contato profissional:
-
-LinkedIn: https://linkedin.com/in/ivan-soares-37956042a
-
-GitHub: [Seu perfil do GitHub]
-
-Sempre buscando aprender, desenvolver novas habilidades e transformar conhecimento em projetos!
+🔗 LinkedIn: https://linkedin.com/in/ivan-soares-37956042a
